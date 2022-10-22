@@ -1,0 +1,13 @@
+ANALYSIS
+
+1. There is a high negative correlation (r = -0.85) between temperature and latitude in the northern hemisphere.
+
+    It is common knowledge that temperature is warmer towards the equator for scientific reasons well beyond the means of this analysis. Imagine Colombia and Somalia then imagine Greenland and Antarctica.
+
+2. There is a high positive correlation (r = +0.70) between temperature and latitude in the southern hemisphere.
+
+    This correlation is weaker than in the northern hemisphere. This could be because habitable land extends more to the north; therefore there is a wider range of data in the north to create a trend. To explain, the latitude axis in the north hemisphere figures have a range of about 80 while the latitude in the southern hemisphere figures has a range of about 55.
+
+3. There are very weak correlations (|r| < 0.3) between cloudiness, humidity, and latitude in each hemisphere. However, unlike temperature, these correlations are in the same direction in both hemispheres (positive).
+
+    Cold northern air can hold more moisture so relative humidity will generally be less.
